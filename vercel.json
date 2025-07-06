@@ -1,10 +1,5 @@
 {
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "has": [{ "type": "host", "value": "www.telehealthbyamny.app" }],
-      "destination": "https://telehealthbyamny.app/:1",
-      "permanent": true
-    }
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" }
   ]
 }
