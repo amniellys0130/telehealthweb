@@ -1,0 +1,1 @@
+// Placeholder for es/sobre-nosotros.tsx
